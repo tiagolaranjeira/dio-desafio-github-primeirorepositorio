@@ -1,0 +1,9 @@
+Comandos do Terminal
+
+Ls - lista arquivos
+Cd - entra na pasta
+Cd .. retorna 
+Clear limpar a tela
+Mkdir - criar um pasta
+Rmdir - deletar uma pasta
+Cat > criar um arquivo e incluir informações dentro(ctrl+d depois de colocar o assunto)
